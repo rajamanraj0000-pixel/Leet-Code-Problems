@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0268-missing-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
