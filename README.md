@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rajamanraj0000-pixel/Leet-Code-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
